@@ -15,10 +15,15 @@ This repository contains the code and analysis for forecasting daily temperature
 ## 📁 Repository Contents
 
 📦 Applied-Forecasting
+
 ├── 202201460_21.ipynb # Full code: data prep, classical models, and DL models
+
 ├── 202201460_21.pdf # Detailed report with visuals and interpretation
+
 ├── NYC_Central_Park_weather_1869-2022.csv # dataset used
+
 ├── requirements.txt
+
 └── README.md # This file
 
 ## 🧪 Methods Used
